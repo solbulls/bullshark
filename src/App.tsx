@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { motion } from 'motion/react';
 import { Copy, Check, Fish, Droplets, TrendingUp } from 'lucide-react';
 
-const CA = "BULLSHARK111111111111111111111111111111111";
+const CA = "2HfNK5MT9CJL9YB2w41yrVipe1wmCHudo79aK5aBpump";
 
 // Solana Logo SVG
 const SolanaLogo = ({ className }: { className?: string }) => (
